@@ -1,2 +1,5 @@
 # NLP_Portfolio
- Following Spring 2023 CS 4385 course taught by Karen Mazidi, UT Dallas
+ Following Spring 2023 CS 4395 course taught by Karen Mazidi, UT Dallas
+ 
+ # Index
+1. [Introduction to NLP] (NLP_Overview.pdf)
