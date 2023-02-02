@@ -6,7 +6,7 @@
 A [document](Overview_of_NLP.pdf) discussing basic background information (definition, history, personal interest) about NLP.
 <br/>
 ### 1. Text Processing with Python
-A [program](Homework1\Homework1_cmt180004.py) that takes a CSV file and processes them with format checking. It then creates a dictionary from all of the entries and loads it into a pickle file. It immediately unpacks the pickle file and is able to use the objects and their methods.  
+A [program](Homework1/Homework1_cmt180004.py) that takes a CSV file and processes them with format checking. It then creates a dictionary from all of the entries and loads it into a pickle file. It immediately unpacks the pickle file and is able to use the objects and their methods.  
 #### How to Run:  
 Download the contents of the folder labeled "Homework1." Upload it into the preferred IDE. Sysargs should be specified to point to the location of the data file. It was data\data.csv in my case. Also the script path should be specified as the .py file named "Homework1_cmt180004.py."  
 #### Reflection:  
