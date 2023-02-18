@@ -14,4 +14,4 @@ Python is useful for text processing because of how dynamically it treats data. 
 This assignment enabled me to learn how to use regular expressions. I also have never used pickle files before. It seems to be helpful for developing code and working with data where it would waste a lot of time to process the data over and over. Rather, it can be saved in a pickle file to unpack for future steps. This assignment was also a useful review of Python lists and classes.
 <br/>
 ### 2. Word Guessing Game
-A [program] (Homework2/Homework2_cmt180004.py) that accepts a text file and does some preprocessing (including calculating lexical diversity, filtering, pos-tagging using NLTK) before starting a hangman game with the user.
+A [program](Homework2/Homework2_cmt180004.py) that accepts a text file and does some preprocessing (including calculating lexical diversity, filtering, pos-tagging using NLTK) before starting a hangman game with the user.
