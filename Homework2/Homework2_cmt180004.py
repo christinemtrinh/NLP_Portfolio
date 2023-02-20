@@ -158,6 +158,17 @@ def run_game(word_list):
                     game_over = True
                 else:
                     print('Sorry, guess again.', point, 'points.')
+        else:
+            if guess == key:
+                for i in progress:
+                    if i == False:
+                        point += 1
+                print('You guessed the word correctly!', point, 'points.')
+                round_in_progress = False
+            else:
+                print('You guessed the wrong word. 5 pt penalty.')
+                point -= 5
+                game_over = True
 
     # Display end of game summary
     print('\nGame over! You had', point, 'points.')
