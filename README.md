@@ -15,3 +15,6 @@ This assignment enabled me to learn how to use regular expressions. I also have 
 <br/>
 ### 2. Word Guessing Game
 A [program](Homework2/Homework2_cmt180004.py) that accepts a text file and does some preprocessing (including calculating lexical diversity, filtering, pos-tagging using NLTK) before starting a hangman game with the user.
+
+### 3. Using WordNet
+A [program](Homework3/Homework3_cmt180004.ipynb) that explores different features of WordNet and sentiment analysis.
