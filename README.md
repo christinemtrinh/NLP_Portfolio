@@ -21,3 +21,6 @@ A [program](Homework3/Homework3_cmt180004.ipynb) that explores different feature
 
 ### 4. Ngrams Language Modeling
 This assignment uses two programs. The [first](Homework4/Homework4a_cmt180004.py) uses given texts to train three different models representing a different language. The [second](Homework4/Homework4b_cmt180004.py) then unpacks the models and runs them with some test data to recognize the language being used. Finally, the models' outputs are compared with the solution given by a human annotator to assess the performance of the model.
+
+### 5. Sentence Parsing 
+A [document](Homework5/Homework5_cmt180004.pdf) that uses three kinds of parsers for a complex sentence. All of these parsers aim to reduce ambiguity in different ways.
