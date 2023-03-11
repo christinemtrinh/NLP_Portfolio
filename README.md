@@ -24,3 +24,6 @@ This assignment uses two programs. The [first](Homework4/Homework4a_cmt180004.py
 
 ### 5. Sentence Parsing 
 A [document](Homework5/Homework5_cmt180004.pdf) that uses three kinds of parsers for a complex sentence. All of these parsers aim to reduce ambiguity in different ways.
+
+### 6. Building a Corpus
+A [program](Homework6/Homework6_cmt180004.py) that recursively scrapes websites to get info about a predefined topic (Mediterranean food!). It does its best to filter out what may not be helpful and keep what is. It builds a knowledge base that can have further applications, such as a chatbot.
