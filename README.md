@@ -28,5 +28,5 @@ A [document](Homework5/Homework5_cmt180004.pdf) that uses three kinds of parsers
 ### 6. Building a Corpus
 A [program](Homework6/Homework6_cmt180004.py) that recursively scrapes websites to get info about a predefined topic (Mediterranean food!). It does its best to filter out what may not be helpful and keep what is. It builds a knowledge base that can have further applications, such as a chatbot.
 
-### 7. Trying Machine Learning Approaches
-A [report](Homework7/Homework7_cmt180004.pdf) where I created 3 different ML models that attempts sentiment analysis, a common application of NLP. I found that the logistic regression performed best with this data set and my chosen hyperparameters.
+### 7. Machine Learning Approaches
+A [report](Homework7/Homework7_cmt180004.pdf) examining 3 different ML models that attempt sentiment analysis, a common application of NLP. Logistic regression performed best with this data set and chosen hyperparameters.
