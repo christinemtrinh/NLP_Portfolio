@@ -30,3 +30,6 @@ A [program](Homework6/Homework6_cmt180004.py) that recursively scrapes websites 
 
 ### 7. Trying Machine Learning Approaches
 A [report](Homework7/Homework7_cmt180004.pdf) where I created 3 different ML models that attempts sentiment analysis, a common application of NLP. I found that the logistic regression performed best with this data set and my chosen hyperparameters.
+
+### 8. Implementing a Chatbot
+A [program](ChatbotProject/Project1_cmt180004_emu200000.ipynb) that attempts to implement a chatbot that can answer AI/ML/NLP related questions.
