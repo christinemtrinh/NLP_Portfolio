@@ -33,3 +33,6 @@ A [report](Homework7/Homework7_cmt180004.pdf) where I created 3 different ML mod
 
 ### 8. Implementing a Chatbot
 A [program](ChatbotProject/Project1_cmt180004_emu200000.ipynb) that attempts to implement a chatbot that can answer AI/ML/NLP related questions.
+
+### 9. Text Classification 2
+A [program](Homework8/Homework8_cmt180004.pdf) that does multi-class classification using deep learning. Two different architectures are examined and embedding is tested. 
