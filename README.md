@@ -36,3 +36,6 @@ A [program](ChatbotProject/Project1_cmt180004_emu200000.ipynb) that attempts to 
 
 ### 9. Text Classification 2
 A [program](Homework8/Homework8_cmt180004.pdf) that does multi-class classification using deep learning. Two different architectures are examined and embedding is tested. 
+
+## Summary
+Throughout this semester I learned about the many uses for natural language processing and the approaches to it. I was able to strengthen my skills listed [here](NLPSkills.txt). As with most technology, advancements are constantly being made. I especially believe it true for NLP because to be honest, some of the libraries I used were far from perfect. Even through the complex human mind, it takes 10,000 years for a new language to evolve from an existing one. One will have never fully mastered a language in their lifetime. I hope to stay in-the-know about new developments in NLP, and not just 'hype' ones. I have a strong interest in literature, so I think one day I may use the skills I learned from this class. I hope to one day be a data scientist, and this class further confirmed my interest in statistics and artificial intelligence.
