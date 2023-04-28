@@ -1,0 +1,19 @@
+In this portfolio:
+
+____ Technical Skills ____
+- Python
+- Natural Language Processing
+- Machine Learning
+- NumPy
+- pandas 
+- Natural Language Toolkit (NLTK)
+- scikit-learn
+- TensorFlow
+
+____ Professional Skills ____
+- Clear communication of findings
+- Analysis of data
+- Methodological problem solving
+- Team coordination
+- Timely delivery of projects
+- Detailed approach to directions
